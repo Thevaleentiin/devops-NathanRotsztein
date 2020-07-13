@@ -1,0 +1,125 @@
+{
+  "wording": {
+    "changeLang": {
+      "en-US": "Français",
+      "fr-FR": "English"
+    },
+    "hello": {
+      "en-US": "World weather",
+      "fr-FR": "Météo du Monde"
+    },
+    "cycle": {
+      "en-US": "You want to understand how does rain form and what is the water cycle?",
+      "fr-FR": "Vous voulez comprendre comment se forme la pluie et quel est le cycle de l'eau?"
+    },
+    "temperature": {
+      "en-US": "Temperature",
+      "fr-FR": "Temperature"
+    },
+    "humidity": {
+      "en-US": "Humidity",
+      "fr-FR": "Humidité"
+    },
+    "feels_like": {
+      "en-US": "Feels like",
+      "fr-FR": "Ressentie"
+    },
+    "wind": {
+      "en-US": "Wind",
+      "fr-FR": "Vent"
+    },
+    "temperature_min": {
+      "en-US": "Temperature Min",
+      "fr-FR": "Temperature Min"
+    },
+    "temperature_max": {
+      "en-US": "Temperature Max",
+      "fr-FR": "Temperature Max"
+    },
+    "next": {
+      "en-US": "Want to see more ? On the water cycle",
+      "fr-FR": "En savoir plus sur le cycle de l'eau ?"
+    },
+    "signature": {
+      "en-US": "Made by Nathan Rotsztein with Vuejs Vuex and an API",
+      "fr-FR": "Fait par Nathan Rotsztein avec Vuejs, Vuex et l'aide d'une API"
+    }
+  },
+  "cycle": [
+    {
+      "nb": "1",
+      "title": {
+        "en-US": "Evaporation",
+        "fr-FR": "L’évaporation"
+      },
+      "text": {
+        "en-US": "The rays of the sun warm the water of rivers, rivers, lakes, seas and oceans and make it pass from the liquid state to the state of water vapor (gas): it is evaporation .",
+        "fr-FR": "Les rayons du soleil réchauffent l’eau des rivières, des fleuves, des lacs, des mers et des océans et la fait passer de l’état liquide à l’état de vapeur d’eau (gazeux) : c’est l’évaporation."
+      },
+      "textdesktop": {
+        "en-US": "The rays of the sun warm the water of rivers, rivers, lakes, seas and oceans and make it pass from the liquid state to the state of water vapor (gas): it is evaporation .",
+        "fr-FR": "Les rayons du soleil réchauffent l’eau des rivières, des fleuves, des lacs, des mers et des océans et la fait passer de l’état liquide à l’état de vapeur d’eau (gazeux) : c’est l’évaporation."
+      }
+    },
+    {
+      "nb": "2",
+      "title": {
+        "en-US": "The condensation",
+        "fr-FR": "La condensation"
+      },
+      "text": {
+        "en-US": "On contact with the atmosphere, the water vapor cools and transforms into small droplets which are at the origin of the formation of clouds - this stage is called condensation - which, under the action of the winds, will head inland.",
+        "fr-FR": "Au contact de l’atmosphère, la vapeur d’eau se refroidit et se transforme en petites gouttelettes qui sont à l’origine de la formation des nuages – cette étape se nomme la condensation – qui, sous l’action des vents, vont se diriger vers l’intérieur des terres."
+      },
+      "textdesktop": {
+        "en-US": "On contact with the atmosphere, the water vapor cools and transforms into small droplets which are at the origin of the formation of clouds - this stage is called condensation - which, under the action of the winds, will head inland.",
+        "fr-FR": "Au contact de l’atmosphère, la vapeur d’eau se refroidit et se transforme en petites gouttelettes qui sont à l’origine de la formation des nuages – cette étape se nomme la condensation – qui, sous l’action des vents, vont se diriger vers l’intérieur des terres."
+      }
+    },
+    {
+      "nb": "3",
+      "title": {
+        "en-US": "The precipitations",
+        "fr-FR": "Les précipitations"
+      },
+      "text": {
+        "en-US": "They are transported by atmospheric circulation, the clouds move and the effect of gravity helping, the water falls on the ground in the form of rain, snow or hail (liquid or solid state), which is generally called Precipitation.",
+        "fr-FR": "Elles sont transportés par la circulation atmosphérique, les nuages se déplacent et l’effet de la gravité aidant, l’eau retombe sur le sol sous forme de pluie, de neige ou de grêle (état liquide ou solide), qu’on appelle généralement « précipitations »."
+      },
+      "textdesktop": {
+        "en-US": "They are transported by atmospheric circulation, the clouds move and the effect of gravity helping, the water falls on the ground in the form of rain, snow or hail (liquid or solid state), which is generally called Precipitation.",
+        "fr-FR": "Elles sont transportés par la circulation atmosphérique, les nuages se déplacent et l’effet de la gravité aidant, l’eau retombe sur le sol sous forme de pluie, de neige ou de grêle (état liquide ou solide), qu’on appelle généralement « précipitations »."
+      }
+    },
+    {
+      "nb": "4",
+      "title": {
+        "en-US": "Infiltration",
+        "fr-FR": "Le ruissellement ou l’infiltration"
+      },
+      "text": {
+        "en-US": "Water, which is not absorbed by the soil, flows along the slopes until it flows into rivers, streams and lakes. It will then be transported to the seas and oceans, these are the drainage rivers.",
+        "fr-FR": "L’eau qui n’est pas absorbée par le sol, ruisselle le long des pentes jusqu’à se déverser dans les rivières, les fleuves et les lacs. Elle sera ensuite transportée jusqu’aux mers et océans, ce sont les « cours d’eau de drainage »."
+      },
+      "textdesktop": {
+        "en-US": "Water, which is not absorbed by the soil, flows along the slopes until it flows into rivers, streams and lakes. It will then be transported to the seas and oceans, these are the drainage rivers.",
+        "fr-FR": "L’eau qui n’est pas absorbée par le sol, ruisselle le long des pentes jusqu’à se déverser dans les rivières, les fleuves et les lacs. Elle sera ensuite transportée jusqu’aux mers et océans, ce sont les « cours d’eau de drainage »."
+      }
+    },
+    {
+      "nb": "5",
+      "title": {
+        "en-US": "The cycle",
+        "fr-FR": "Le Cycle"
+      },
+      "text": {
+        "en-US": "Just under half of the precipitation recharges the water tables, the rest goes into evaporation. The cycle continues indefinitely.",
+        "fr-FR": "Un peu moins de la moitié des précipitations recharge les nappes phréatiques, le reste part en évaporation. Le cycle perdure indéfiniement."
+      },
+      "textdesktop": {
+        "en-US": "Just under half of the precipitation recharges the water tables, the rest goes into evaporation. The cycle continues indefinitely.",
+        "fr-FR": "Un peu moins de la moitié des précipitations recharge les nappes phréatiques, le reste part en évaporation. Le cycle perdure indéfiniement."
+      }
+    }
+  ]
+}
