@@ -10,18 +10,18 @@
     },
     "cycle": {
       "en-US": "You want to understand how does rain form and what is the water cycle?",
-      "fr-FR": "Vous voulez comprendre comment se forme la pluie et quel est le cycle de l'eau?"
+      "fr-FR": "En savoir plus sur la pluie et le cycle de l'eau"
     },
     "temperature": {
       "en-US": "Temperature",
-      "fr-FR": "Temperature"
+      "fr-FR": "Température"
     },
     "humidity": {
       "en-US": "Humidity",
       "fr-FR": "Humidité"
     },
     "feels_like": {
-      "en-US": "Feels like",
+      "en-US": "Felt like",
       "fr-FR": "Ressentie"
     },
     "wind": {
@@ -30,11 +30,11 @@
     },
     "temperature_min": {
       "en-US": "Temperature Min",
-      "fr-FR": "Temperature Min"
+      "fr-FR": "Température Min"
     },
     "temperature_max": {
       "en-US": "Temperature Max",
-      "fr-FR": "Temperature Max"
+      "fr-FR": "Température Max"
     },
     "next": {
       "en-US": "Want to see more ? On the water cycle",
