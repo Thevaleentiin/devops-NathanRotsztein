@@ -1,4 +1,4 @@
-name: Deployment on Heroky
+name: Deployment preprod on Heroky
 on: 
   push:
     branches:
