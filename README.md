@@ -1,5 +1,8 @@
 # app-meteo
 
+Mon projet est une application météo en vuejs. Le projet comporte deux branch, une prod et une préprod. 
+Il est hosté sur Heroku et posséde plusieurs stage : Vérif Lint / Build de l'app / Instalation des dépendance / ajout de Node
+
 ## Project setup
 ```
 npm install
