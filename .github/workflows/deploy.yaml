@@ -10,9 +10,6 @@ jobs:
       - name: Init project
         uses: actions/checkout@v2
 
-      - name: Add Nodejs
-        uses: actions/setup-node@master
-
       - name: Install dependances
         run: npm install
 
